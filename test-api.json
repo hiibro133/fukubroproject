@@ -1,0 +1,68 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14,
+                10749
+            ],
+            "id": 976573,
+            "original_language": "en",
+            "original_title": "Elemental",
+            "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+            "popularity": 402.295,
+            "poster_path": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+            "release_date": "2023-06-14",
+            "title": "Elemental",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 2979
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 613504,
+            "original_language": "en",
+            "original_title": "After We Collided",
+            "overview": "Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.",
+            "popularity": 110.926,
+            "poster_path": "/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+            "release_date": "2020-09-02",
+            "title": "After We Collided",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 5099
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mcSQa6hyBY3kLj0Eaey2K1Ev852.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10749
+            ],
+            "id": 43347,
+            "original_language": "en",
+            "original_title": "Love & Other Drugs",
+            "overview": "Maggie is an alluring free spirit who won't let anyone – or anything – tie her down. But she meets her match in Jamie, whose relentless and nearly infallible charm serves him well with the ladies and the cutthroat world of pharmaceutical sales. Maggie and Jamie's evolving relationship takes them both by surprise, as they find themselves under the influence of the ultimate drug: love.",
+            "popularity": 75.553,
+            "poster_path": "/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
+            "release_date": "2010-11-22",
+            "title": "Love & Other Drugs",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 4774
+        }
+    ],
+    "total_pages": 2338,
+    "total_results": 46754
+}
